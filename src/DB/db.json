@@ -1,0 +1,109 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "John@gmail.com",
+      "phone": 123456789,
+      "country": "canda"
+    },
+    {
+      "id": 2,
+      "name": "angela",
+      "email": "angela@gmail.com",
+      "phone": 123456789,
+      "country": "UK"
+    },
+    {
+      "name": "dev",
+      "email": "devvasita1207@gmail.com",
+      "phone": "09512687783",
+      "country": "India",
+      "id": 5
+    },
+    {
+      "name": "ravi",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "name": "ravisecond",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "name": "ravithird",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 8
+    },
+    {
+      "name": "raviforth",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 9
+    },
+    {
+      "name": "raviqwe",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 10
+    },
+    {
+      "name": "ravidd",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 11
+    },
+    {
+      "name": "ravidd",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 12
+    },
+    {
+      "name": "ravidd",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 13
+    },
+    {
+      "name": "ravi",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 17
+    },
+    {
+      "name": "ravisecond",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 18
+    },
+    {
+      "name": "raviqwe",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 19
+    },
+    {
+      "name": "shdjhds",
+      "email": "raviraval639@gmail.com",
+      "phone": "08238893128",
+      "country": "India",
+      "id": 20
+    }
+  ]
+}
